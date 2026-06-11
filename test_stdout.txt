@@ -1,0 +1,6 @@
+hello
+/mnt/data/wish-shell-iker
+hello
+first
+second
+/
